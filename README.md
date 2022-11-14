@@ -29,9 +29,14 @@ To get started, we recommend you start with `snli` or `sst`. In `snli`, we downl
 
 The gradient-based attacks are written in `attacks.py`. The file `utils.py` contains the code for evaluating models, computing gradients, and evaluating the top candidates for the attack. `utils.py` is only used by the AllenNLP models (i.e., not for GPT-2).
 
+
+## References
+
+```
 @inproceedings{Wallace2019Triggers,
   Author = {Eric Wallace and Shi Feng and Nikhil Kandpal and Matt Gardner and Sameer Singh},
   Booktitle = {Empirical Methods in Natural Language Processing},                            
   Year = {2019},
   Title = {Universal Adversarial Triggers for Attacking and Analyzing {NLP}}
-}
+}    
+```
