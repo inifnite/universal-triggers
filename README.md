@@ -1,11 +1,13 @@
 # Universal Adversarial Triggers for Attacking and Analyzing NLP
 
 Results mentioned in the Report can be found here:
+
+```
 https://colab.research.google.com/drive/1TwjDS5gIuwpHFN75Ti3HBWvB12G7LRUD?usp=sharing
 https://colab.research.google.com/drive/1By5meXcFn0vLre5hMoKyanqQcqNwwKfK?usp=sharing
 https://colab.research.google.com/drive/1V2GckVJpkD1gP2b7URaTn2Dc5-OJMXFj?usp=sharing
 https://colab.research.google.com/drive/1LKQJRHkUV6YXAyBHt2FOJfeuPAXKi--U?usp=sharing
-
+```
 
 ## Installation
 
@@ -16,7 +18,6 @@ conda create -n triggers python=3.6
 source activate triggers
 pip install -r requirements.txt
 ```
-Now you should be ready to go!
 
 ## Getting Started
 
